@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-I am an MPH-Epidemiology candidate at Columbia University Mailman School of Public Health with a certificate in Epidemiology of Chronic Diseases. I have expertise in principles and methods of Biostatistics; principles, theories, and procedures of Epidemiology, including study design, statistical analysis, and causal inference. I have established data management/analysis competency using SAS, R, SQL and have experience of working with huge data sets.
+I am an **MPH-Epidemiology** candidate at **Columbia University Mailman School of Public Health** with a certificate in **Epidemiology of Chronic Diseases**. I have expertise in principles and methods of Biostatistics; principles, theories, and procedures of Epidemiology, including study design, statistical analysis, and causal inference. I have established data management/analysis competency using **SAS, R, SQL** and have experience of working with huge data sets.
 
 **Education**
 
@@ -33,6 +33,7 @@ I am an MPH-Epidemiology candidate at Columbia University Mailman School of Publ
   **Research Assistant**  
   
   •	Characterized the risk profile of young stroke patients - Determined the association of Ischemic stroke and  Subarachnoid hemorrhage with Diabetes Mellitus, pre-existing hypertension, Congenital heart disease, Smoking, Migraine, PFO, Chronic Renal diseases using SAS.
+  
   •	Assessed the prevalence of Ischemic stroke and Subarachnoid hemorrhage by age category, sex, race, and  ethnicity from 2004-2016 using the SPARCS dataset.
   
 * **Columbia University Mailman School of Public Health**
@@ -40,6 +41,7 @@ I am an MPH-Epidemiology candidate at Columbia University Mailman School of Publ
   **Graduate Teaching Assistant**  
   
   •	Graduate Teaching Assistant for 2 studios- Global and Developmental Perspectives, Integration of Science and  Practice.
+  
   •	Coordinate and meet with professor on a weekly basis to review study material and lesson plans, Evaluate and grade assignments, Facilitate classroom discussions, Schedule and maintain regular office hours providing support to 100+ students.
   
 * **Dr. Ekta’s Dental Solutions, Haryana, India** 
