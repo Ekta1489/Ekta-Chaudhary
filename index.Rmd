@@ -7,10 +7,16 @@ output:
     theme: cerulean
 ---
 
-# Ekta Chaudhary MPH-Epidemiology, Columbia University, New York!
+**Ekta Chaudhary**
+
+**MPH-Epidemiology** 
+
+**Columbia University Mailman School of Public Health, New York**
 
 
-![](https://media.giphy.com/media/26gsmwAxeBN3UHYqY/giphy.gif)
+![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+
+* You can learn more about my professional background and accomplishments [here](about-me.html)
 
 * Here's a link to my [LinkedIn](https://www.linkedin.com/in/ekta-chaudhary-80469716a/) 
   and my [Github](https://github.com/Ekta1489)
@@ -33,4 +39,3 @@ output:
 
 ![](Enable.jpg)
 
-* You can learn more about my professional background and accomplishments [here](about-me.html)
