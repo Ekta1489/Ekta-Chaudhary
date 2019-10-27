@@ -7,16 +7,24 @@ output:
     theme: cerulean
 ---
 
-# Ekta Chaudhary MPH-Epidemiology! This is my website!
+# Ekta Chaudhary MPH-Epidemiology, Columbia University, New York!
+
 
 ![](https://media.giphy.com/media/26gsmwAxeBN3UHYqY/giphy.gif)
 
-Here's a link to my **LinkedIn** account (https://www.linkedin.com/in/ekta-chaudhary-80469716a/) and my **github** account (https://github.com/Ekta1489)
+Here's a link to my **LinkedIn** account (https://www.linkedin.com/in/ekta-chaudhary-80469716a/) 
 
-I am a Dental Surgeon. 
+and my **github** account (https://github.com/Ekta1489)
+
+I am a Dental Surgeon and an Epidemiologist!
 
 ![](Dentist.jpg)
 
 
-I am the founder and co-president of Enable - A student organization at Columbia University Mailman School of Public Health
+I am the Founder and co-president of Enable (https://mailman-columbia.campuslabs.com/engage/organization/enable)
+
+Enable is a student organization at Columbia University Mailman School of Public Health. 
+
+The mission of Enable is to destigmatize disability of all forms
+
 ![](Enable.jpg)
