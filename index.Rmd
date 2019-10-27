@@ -12,22 +12,25 @@ output:
 
 ![](https://media.giphy.com/media/26gsmwAxeBN3UHYqY/giphy.gif)
 
-Here's a link to my [LinkedIn](https://www.linkedin.com/in/ekta-chaudhary-80469716a/) 
-and my [Github](https://github.com/Ekta1489)
+* Here's a link to my [LinkedIn](https://www.linkedin.com/in/ekta-chaudhary-80469716a/) 
+  and my [Github](https://github.com/Ekta1489)
 
-I am a Dental Surgeon and an Epidemiologist!
+* I am a **Dental Surgeon** and an **Epidemiologist**!
 
 ![](Dentist.jpg)
+![](Epi.jpg)
+
+![](Epi2.jpg)
 
 
-I am the Founder and co-president of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable)
+* I am the Founder and co-president of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable)
 
-Enable is a student organization at Columbia University Mailman School of Public Health. 
+* Enable is a student organization at Columbia University Mailman School of Public Health. 
 
-The mission of Enable is to destigmatize disability of all forms.
+* The mission of Enable is to destigmatize disability of all forms.
 
-You can follow Enable on [Instagram](https://www.instagram.com/enable_at_columbia/)
+* You can follow Enable on [Instagram](https://www.instagram.com/enable_at_columbia/)
 
 ![](Enable.jpg)
 
-You can learn more about my professional background and accomplishments [here](about-me.html)
+* You can learn more about my professional background and accomplishments [here](about-me.html)
