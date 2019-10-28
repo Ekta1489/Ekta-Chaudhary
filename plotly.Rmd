@@ -8,4 +8,34 @@ output:
 ---
 I have added my files with _interaction graphics_ here !!
 
+```{r}
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+
+library(plotly)
+```
+```{r}
+data("ny_noaa") 
+ny_noaa_new =
+  ny_noaa %>%
+  janitor::clean_names() %>%
+  drop_na() %>%
+  select(id,date,tmax,tmin,snow,prcp) %>%
+  filter(
+    date == 	"1981-01-01"
+  )
+```
+
+
+```{r}
+ny_noaa_new %>%
+  #mutate(text_label = str_c("ID", id))
+plot_ly(
+   x = ~tmax, y = ~tmin, type = "scatter", mode = "markers",
+   color = ~id)
+
+```
+
+
 
