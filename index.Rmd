@@ -22,7 +22,7 @@ output:
 * I am a **Dental Surgeon** and an **Epidemiologist**!
 
 ![](Dentist.jpg)
-![](Epi.jpg)
+
 
 ![](Epi2.jpg)
 
