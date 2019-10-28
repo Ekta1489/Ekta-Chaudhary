@@ -11,13 +11,10 @@ output:
 
 **Columbia University Mailman School of Public Health, New York**
 
+**Welcome to my Website!!**
+
 
 ![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
-
-* You can learn more about my professional background and accomplishments [here](about-me.html)
-
-* Here's a link to my [LinkedIn](https://www.linkedin.com/in/ekta-chaudhary-80469716a/) 
-  and my [Github](https://github.com/Ekta1489)
 
 * I am a **Dental Surgeon** and an **Epidemiologist**!
 
