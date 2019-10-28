@@ -1,13 +1,11 @@
 ---
-title: "Ekta Chaudhary: Welcome to my Website"
+title: "Ekta Chaudhary"
 output: 
   html_document:
     toc: true
     toc_float: true
     
 ---
-
-**Ekta Chaudhary**
 
 **MPH-Epidemiology** 
 
