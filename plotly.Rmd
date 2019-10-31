@@ -16,25 +16,36 @@ library(p8105.datasets)
 library(plotly)
 ```
 ```{r}
+
 data("ny_noaa") 
+
 ny_noaa_new =
   ny_noaa %>%
-  janitor::clean_names() %>%
+  janitor::clean_names() %>% 
   separate(col = date, into = c("year", "month", "day")) %>%
   select(id,year,month,day,tmax,tmin) %>%
-   filter(
-    id == "USC00300023",
-    year == c(1981:2000)
+  filter(
+    id == c("USW00094728"),
+    year == c(1991:2000)
   ) %>%
   mutate(
-    month = recode(month, '01' = "January", '02' = "February", '03' = "March", '04' = "April", '05' = "May", '06' = "June", '07' = "July", '08' = "August", '09' = "September", '10' = "October", '11' = "November", '12' = "December")) %>%
-  group_by(month) 
+    tmax = as.numeric(tmax),
+    tmin = as.numeric(tmin),
+    tmin = tmin / 10,
+    tmax = tmax / 10,
+    month = recode(
+      month, '01' = "January", '02' = "February", '03' = "March", '04' = "April", '05' = "May", '06' = "June",    '07' = "July", '08' = "August", '09' = "September", '10' = "October", '11' = "November", '12' = "December"
+      ),
+  name = recode(
+    id, USW00094728 = "CentralPark_NY"
+    )
+  )
   
-     
 ```
 
 
 ```{r}
+
 ny_noaa_new %>%
   mutate(text_label = str_c("Year: ", year,"  Month: ", month, " Date: ", day)) %>% 
 plot_ly(
@@ -42,7 +53,6 @@ plot_ly(
       color = ~month, text = ~text_label)
 
 ```
-
 
 
 
