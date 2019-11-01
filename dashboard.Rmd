@@ -34,6 +34,8 @@ ny_noaa_new =
     tmax = tmax / 10,
    month = as.numeric(month),
    month = month.name[month],
+   month = fct_relevel(
+     month, "January","February","March","April","May","June","July","August","September","October","November","December"),
   name = recode(
     id, USW00094728 = "CentralPark_NY"
     )
@@ -74,7 +76,9 @@ summarise(
 ) %>%
   mutate(
    month = as.numeric(month),
-   month = month.name[month]
+   month = month.name[month],
+   month = fct_relevel(
+     month, "January","February","March","April","May","June","July","August","September","October","November","December")
     )
 ```
 
@@ -110,7 +114,9 @@ ny_noaa_new =
     tmin = tmin / 10,
     tmax = tmax / 10,
    month = as.numeric(month),
-   month = month.name[month]
+   month = month.name[month],
+   month = fct_relevel(
+     month, "January","February","March","April","May","June","July","August","September","October","November","December")
     )
 ```
 
