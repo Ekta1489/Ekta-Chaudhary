@@ -1,0 +1,126 @@
+---
+title: "NOAA Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+
+library(plotly)
+```
+
+```{r}
+data("ny_noaa") 
+
+ny_noaa_new =
+  ny_noaa %>%
+  janitor::clean_names() %>% 
+  separate(col = date, into = c("year", "month", "day")) %>%
+  select(id,year,month,day,tmax,tmin) %>%
+  filter(
+    id == "USW00094728",
+    year == c(1991:2000)
+  ) %>%
+  mutate(
+    tmax = as.numeric(tmax),
+    tmin = as.numeric(tmin),
+    tmin = tmin / 10,
+    tmax = tmax / 10,
+   month = as.numeric(month),
+   month = month.name[month],
+  name = recode(
+    id, USW00094728 = "CentralPark_NY"
+    )
+  )
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ny_noaa_new %>%
+  mutate(text_label = str_c("Year: ", year,"  Month: ", month, " Date: ", day)) %>% 
+plot_ly(
+   x = ~tmax, y = ~tmin, type = "scatter", mode = "markers",
+      color = ~month, text = ~text_label) %>%
+layout(title = "Minimum and Maximum temperature in Central Park, NY from 1991-2000")
+```
+
+
+```{r}
+weather_df = 
+  ny_noaa %>%
+  janitor::clean_names() %>%
+  separate(col = date, into = c("year", "month", "day")) %>%
+  select(id,year,month,day,snow,prcp) %>%
+  filter(
+    id == "USW00094728",
+          year == 2000
+    ) %>%
+  mutate(
+    name = recode(id, USW00094728 = "CentralPark_NY")
+     ) %>%
+  group_by(month) %>%
+summarise(
+  avg_prcp = sum(prcp)/30 
+) %>%
+  mutate(
+   month = as.numeric(month),
+   month = month.name[month]
+    )
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+weather_df %>%
+   plot_ly(x = ~month, y = ~avg_prcp, color = ~month, type = "bar") %>%
+  layout(title = "Average precipitation in Central Park, NY in 2000"
+         )
+```
+
+
+```{r}
+ny_noaa_new = 
+  ny_noaa %>%
+  janitor::clean_names() %>%
+  separate(col = date, into = c("year", "month", "day")) %>%
+  select(id,year,month,day,tmax,tmin) %>%
+  filter(
+    id == "USW00094728",
+          year == 2000
+    ) %>%
+  mutate(
+    name = recode(id, USW00094728 = "CentralPark_NY")
+     ) %>%
+    mutate(
+    tmax = as.numeric(tmax),
+    tmin = as.numeric(tmin),
+    tmin = tmin / 10,
+    tmax = tmax / 10,
+   month = as.numeric(month),
+   month = month.name[month]
+    )
+```
+
+### Chart C
+
+```{r}
+ny_noaa_new %>%
+plot_ly(y = ~tmax, color = ~month, type = "box",
+          colors = "Set2") %>%
+  layout(title = "Max.temp in Central Park, NY in 2000"
+         )
+```
+

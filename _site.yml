@@ -1,22 +1,22 @@
-name: "Ekta's website!"
+name: "Ekta Chaudhary!"
 output_dir: "."
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
-    - text: "Interactive Graphics"
-      href: plotly.html
+    - text: "Plotly"
+      href: Plotly.html
+    - text: "Dashboard"
+      href: Dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:ec3342@columbia.edu
+      href: mailto:ec3342@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/Ekta1489/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/ekta-chaudhary-80469716a/
     - icon: fa-instagram fa-lg
       href: https://www.instagram.com/drekta_chaudhary/
-        
-      
       
 output:
   html_document:
