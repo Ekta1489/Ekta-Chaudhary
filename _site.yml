@@ -17,6 +17,9 @@ navbar:
       href: https://www.linkedin.com/in/ekta-chaudhary-80469716a/
     - icon: fa-instagram fa-lg
       href: https://www.instagram.com/drekta_chaudhary/
+    - icon: fa-hackerrank fa-lg
+      href: https://www.hackerrank.com/doctorekta1489/
+      
       
 output:
   html_document:
