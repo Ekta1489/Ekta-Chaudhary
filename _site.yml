@@ -23,4 +23,4 @@ navbar:
       
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
