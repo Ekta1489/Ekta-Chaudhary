@@ -39,5 +39,5 @@ You can learn more about my professional accmplishments [here](about-me.html)
 
 ### Dashboard 
 
-I have created a Flexdashboard using flexdashboard package in R Studio that has interaction graphics that I made using plotly.
+I have created a [Flexdashboard](dashboard.html) using flexdashboard package in R Studio that has interaction graphics that I made using plotly. 
 
