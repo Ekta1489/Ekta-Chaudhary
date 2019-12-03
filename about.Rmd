@@ -1,15 +1,19 @@
+
+
 ---
-title: "Professional Summary"
 output: 
   html_document:
     toc: true
     toc_float: true
     
 ---
+![](Columbia-Mailman-logo.png)
+
+# Professional Summary
 
 I am an **MPH-Epidemiology** candidate at **Columbia University Mailman School of Public Health** with a certificate in **Epidemiology of Chronic Diseases**. I have expertise in principles and methods of Biostatistics; principles, theories, and procedures of Epidemiology, including study design, statistical analysis, and causal inference. I have established data management/analysis competency using **SAS, R, SQL** and have experience of working with huge data sets.
 
-**Education**
+# Education
 
 * **Columbia University Mailman School of Public Health, New York, NY**
 
@@ -26,7 +30,7 @@ I am an **MPH-Epidemiology** candidate at **Columbia University Mailman School o
 
   Bachelor of Dental Surgery Equivalent to Doctor of Dental Surgery (DDS)                                       
   
-**Professional Summary**
+# Work Experience
 
 * **New York Presbyterian Hospital, Department of Neurology** 
 
@@ -76,7 +80,7 @@ I am an **MPH-Epidemiology** candidate at **Columbia University Mailman School o
   
   •	Organized dental and medical health awareness campaigns and provided required treatment to 1000+ patients.
   
-**Skills and Certifications**
+# Skills and Certifications
 
 * Programming: SAS, STATA, SQL, R. 
 
