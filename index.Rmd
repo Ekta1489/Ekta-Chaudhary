@@ -6,7 +6,7 @@ output:
     toc_float: true
     
 ---
-![](Image1.jpeg)
+![](IMG_2820.JPG)
 
 I'm a second-year _MPH-Epidemiology_ Candidate with a Certificate in _Epidemiology of Chronic Diseases_ at Columbia University Mailman School of Public Health. 
 Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to Doctor of Dental Surgery in the US. 

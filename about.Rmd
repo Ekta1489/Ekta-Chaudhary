@@ -7,7 +7,7 @@ output:
     toc_float: true
     
 ---
-![](Columbia-Mailman-logo.png)
+
 
 # Professional Summary
 
