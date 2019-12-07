@@ -38,7 +38,7 @@ I am the Founder and co-president of [Enable](https://mailman-columbia.campuslab
 
 You can learn more about my professional accomplishments [here](about-me.html)
 
-### **Data Scienec Projects** 
+### **Data Science Projects** 
 
 * You can visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my R projects.
 * I have created a [Flexdashboard](dashboard.html) using flexdashboard package in R Studio that has interaction graphics that I made using plotly. 
