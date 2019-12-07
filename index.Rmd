@@ -36,9 +36,7 @@ I am the Founder and co-president of [Enable](https://mailman-columbia.campuslab
 
 ### **Professional Summary**
 
-![](Practicum.jpeg)
-
-You can learn more about my professional accmplishments [here](about-me.html)
+You can learn more about my professional accomplishments [here](about-me.html)
 
 ### **Data Scienec Projects** 
 
