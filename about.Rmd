@@ -8,7 +8,11 @@ output:
     
 ---
 
+
 # Professional Summary
+
+![](epi.png)
+
 
 I am an **MPH-Epidemiology** candidate at **Columbia University Mailman School of Public Health** with a certificate in **Epidemiology of Chronic Diseases**. 
 I have expertise in principles and methods of Biostatistics; principles, theories, and procedures of Epidemiology, including study design, statistical analysis, and causal inference. 
