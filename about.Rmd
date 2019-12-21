@@ -25,11 +25,11 @@ I have established data management/analysis competency using **SAS, R, SQL** and
 _Master of Public Health in Epidemiology | Certificate: Epidemiology of Chronic Diseases: Expected- May 2020_                                              
 Relevant coursework:
   
-Epidemiology: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods, Chronic Disease Epidemiology, Cancer Epidemiology.
+_Epidemiology_: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods, Chronic Disease Epidemiology, Cancer Epidemiology, Introduction to Machine Learning for Epidemiology and Public Health 
 
-Biostatistics: Analysis of Categorical Data, Data Science, Relational Databases And SQL Programming, Data Science II, Applied Regression.
+_Biostatistics_: Analysis of Categorical Data, Data Science, Relational Databases And SQL Programming, Data Science II, Applied Regression.
 
-Others: Determinants of Health, Health Systems, Leadership Development, Public Health GIS 
+_Others_: Foundation of Public Health, Global and Developmental Perspectives, Public Health Interventions, Determinants of Health, Health Systems, Leadership Development, Integration of Science and Practice, Public Health GIS
 
 Activities and Societies: Co-President and Director of Finance- Enable (A Columbia University student  initiative to make disability stigma-free)
 
