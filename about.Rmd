@@ -35,7 +35,18 @@ Activities and Societies: Co-President and Director of Finance- Enable (A Columb
 
 **Kurukshetra University, Haryana, India**
 
-_Bachelor of Dental Surgery Equivalent to Doctor of Dental Surgery (DDS): Graduated- November 2012_                                       
+_Bachelor of Dental Surgery Equivalent to Doctor of Dental Surgery (DDS): Graduated- November 2012_ 
+
+Credits completed: 145.5
+Relevant coursework: 
+
+_Year 1_: General Human Anatomy including Embryology and Histology, General Human Physiology and Biochemistry, Nutrition and Dietetics, Dental Materials
+
+_Year 2_: Dental Anatomy, Embryology and Oral Histology, General Pathology and Microbiology, General and Dental Pharmacology and Therapeutics, Preclinical Prosthodontics and Crown & Bridge, Preclinical Conservative Dentistry
+
+_Year 3_: General Medicine, General Surgery, Oral Pathology and Oral Microbiology, Public Health Dentistry
+
+_Year 4_: Oral Medicine and Radiology, Pediatric and Preventive Dentistry, Orthodontics and Dentofacial Orthopedics, Periodontology, Prosthodontics and Crown and Bridge, Conservative Dentistry and Endodontics, Oral and Maxillofacial Surgery
 
 # Work Experience
 
@@ -65,7 +76,7 @@ _Graduate Teaching Assistant (August,2019 to Present)_
   
 **Dr. Ekta’s Dental Solutions, Haryana, India** 
 
-_Founder/ CEO/ General Dentist (March 2014 to June 2018)_                                                                                                                   
+_Founder/ President/ CEO/ (March 2014 to July 2018)_                                                                                                                   
 •Registration number: HN6274
 
 •Appointed, managed and led a team of 5 Dental specialists (Orthodontist, Periodontist, Oral Implantologist, Pedodontist, Oral Surgeon), 4 Dental Auxiliary staff (Dental assistant, Dental Hygienist, Dental Mechanic, Dental technologist), 5+ Interns to ensure the effective running of the dental operatory.
@@ -87,16 +98,28 @@ _Associate Dentist (December 2012 to February 2014)_
 •	Supported with four-handed dentistry, developed and implemented individual dental care plans for 40+ patients per week, which increased productivity.
   
 •	Organized dental and medical health awareness campaigns and provided required treatment to 1000+ patients.
-  
+
+**Swami Devi Dayal Hospital and Dental College, Haryana, India**                                      
+
+_Intern (November 2011 to November 2012)_
+
+•	Completed the compulsory rotational paid internship that provided clinic training in all the different specialities of dentistry
+
+•	Scheduled appointments, maintained records and conducted dental treatment on over 1000 patients in one year
+
+•	Organized dental and medical health awareness campaigns at Indo-Tibetan Border Police, Haryana and provided required treatment to 500+ patients.
+
+•	Assisted with research conducted to study the Impact of mid-day meal program on educational and nutritional in rural Haryana, India.
+
 # Skills and Certifications
 
-* Programming: SAS, STATA, SQL, R. 
+* _Programming_: SAS, STATA, SQL, R. 
 
-* Certifications: Columbia University Irving Medical Centre: HIPAA, CITI, Epidemiology of Chronic   Diseases
+* _Certifications_: Columbia University Irving Medical Centre: HIPAA, CITI, Epidemiology of Chronic   Diseases
   Harvard X: Data Science- R basics 
   LinkedIn: Advanced SQL for Data Scienteist
 
-* Languages: English, Hindi, Punjabi.
+* _Languages_: English, Hindi, Punjabi.
 
 
 
