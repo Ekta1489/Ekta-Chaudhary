@@ -25,9 +25,9 @@ I have established data management/analysis competency using **SAS, R, SQL** and
 _Master of Public Health in Epidemiology | Certificate: Epidemiology of Chronic Diseases: Expected- May 2020_                                              
 Relevant coursework:
   
-_Epidemiology_: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods, Chronic Disease Epidemiology, Cancer Epidemiology, Introduction to Machine Learning for Epidemiology and Public Health 
+_Epidemiology_: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods, Chronic Disease Epidemiology, Cancer Epidemiology
 
-_Biostatistics_: Analysis of Categorical Data, Data Science, Relational Databases And SQL Programming, Data Science II, Applied Regression.
+_Biostatistics_: Analysis of Categorical Data, Data Science I, Relational Databases And SQL Programming, Data Science II, Applied Regression I, Applied Regression II.
 
 _Others_: Foundation of Public Health, Global and Developmental Perspectives, Public Health Interventions, Determinants of Health, Health Systems, Leadership Development, Integration of Science and Practice, Public Health GIS
 
@@ -115,9 +115,15 @@ _Intern (November 2011 to November 2012)_
 
 * _Programming_: SAS, STATA, SQL, R. 
 
+* _Database Management tools: MS Access, MySQL
+
+* _Data Visualisation tools: Shiny, Plotly, ggplot2, Tableau, Flexdashboard 
+
+* _Microsoft Office Suite: MS-Word, MS-Excel, MS-PowerPoint, MS Access, MS Outlook
+
 * _Certifications_: Columbia University Irving Medical Centre: HIPAA, CITI, Epidemiology of Chronic   Diseases
   Harvard X: Data Science- R basics 
-  LinkedIn: Advanced SQL for Data Scienteist
+  LinkedIn: Advanced SQL for Data Scientists
 
 * _Languages_: English, Hindi, Punjabi.
 
