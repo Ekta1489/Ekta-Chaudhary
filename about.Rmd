@@ -115,11 +115,11 @@ _Intern (November 2011 to November 2012)_
 
 * _Programming_: SAS, STATA, SQL, R. 
 
-* _Database Management tools: MS Access, MySQL
+* _Database Management tools_: MS Access, MySQL
 
-* _Data Visualisation tools: Shiny, Plotly, ggplot2, Tableau, Flexdashboard 
+* _Data Visualisation tools_: Shiny, Plotly, ggplot2, Tableau, Flexdashboard 
 
-* _Microsoft Office Suite: MS-Word, MS-Excel, MS-PowerPoint, MS Access, MS Outlook
+* _Microsoft Office Suite_: MS-Word, MS-Excel, MS-PowerPoint, MS Access, MS Outlook
 
 * _Certifications_: Columbia University Irving Medical Centre: HIPAA, CITI, Epidemiology of Chronic   Diseases
   Harvard X: Data Science- R basics 
