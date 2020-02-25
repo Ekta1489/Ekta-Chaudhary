@@ -15,7 +15,6 @@ output:
 I'm a second-year _MPH-Epidemiology_ Candidate with a Certificate in _Epidemiology of Chronic Diseases_ at Columbia University Mailman School of Public Health. 
 Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to Doctor of Dental Surgery in the US. 
 As a Dental Surgeon, I started with my venture and managed it independently for 5 years. I appointed, managed and led a team of 5 Dental specialists, 4 Dental Auxiliary staff, 5+ Interns to ensure the effective running of the dental operatory. 
-Currently, I am pursuing a Master of Public Health in Epidemiology. 
 I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases.
 I love photography,traveling and watching sunsets.
 
@@ -24,7 +23,7 @@ I love photography,traveling and watching sunsets.
 
 ![](Enable.jpg)
 
-I am the Co-Founder of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable). I served as the Co-president and Director of Finance from July,2019 to December, 2019.
+I am the Co-Founder of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable).
 Enable is a student organization at Columbia University Mailman School of Public Health.The mission of Enable is to destigmatize disability of all forms.The organization aims to accomplish this mission by: 
 
 * Providing a platform for discussion on disability
@@ -49,6 +48,6 @@ You can learn more about my professional accomplishments [here](about-me.html)
 
 ### **Data Science Projects** 
 
-* You can visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my R projects.
-* I have created a [Flexdashboard](dashboard.html) using flexdashboard package in R Studio that has interaction graphics that I made using plotly. 
-* You can view the [website](https://connzhang.github.io/finalproject.io/) for my Data Science final Project on **Assessment of Drug-Related Deaths in Connecticut**. 
+* Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
+
+* Visit [Drug related Deaths in Connecticut](https://connzhang.github.io/finalproject.io/) to see my Data Science final Project. 
