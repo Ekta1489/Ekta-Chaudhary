@@ -9,8 +9,6 @@ output:
 ---
 
 
-# Professional Summary
-
 ![](epi.png)
 
 
