@@ -6,13 +6,13 @@ output:
     toc_float: true
     
 ---
-**Welcome to my personal Website!!!**
+**Welcome to my Website!!!**
 
 ![](IMG_2820.JPG)
 
 ### **About Me**
 
-I'm a second-year _MPH-Epidemiology_ Candidate with a Certificate in _Epidemiology of Chronic Diseases_ at Columbia University Mailman School of Public Health. 
+I'm an _Epidemiologist_ and chroic disease research. I graduated from _Columbia University Mailman School of Public Health_ 
 Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to Doctor of Dental Surgery in the US. 
 As a Dental Surgeon, I started with my venture and managed it independently for 5 years. I appointed, managed and led a team of 5 Dental specialists, 4 Dental Auxiliary staff, 5+ Interns to ensure the effective running of the dental operatory. 
 I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases.
@@ -23,7 +23,7 @@ I love photography,traveling and watching sunsets.
 
 ![](Enable.jpg)
 
-I am the Co-Founder of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable).
+I am the Founder and President of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable).
 Enable is a student organization at Columbia University Mailman School of Public Health.The mission of Enable is to destigmatize disability of all forms.The organization aims to accomplish this mission by: 
 
 * Providing a platform for discussion on disability
@@ -31,23 +31,20 @@ Enable is a student organization at Columbia University Mailman School of Public
 * Listing out the ‘during and after-school’ resources for the students with disabilities
 * Creating opportunities for volunteerism and advocacy regarding disability within the school.
 
-As a Co-President and Director of Finance my responsibilities included:
+As a Founder and President of Enable, my responsibilities included:
 
-* Submitted semesterly budget after board review
-* Assigned budget for each event and giveaways
-* Tracked cost for events for internal records
-* Monitored semesterly expenses per event per event via keeping receipts from vendors and submitted reimbursements to the OSA
-* Communicated with vendors and submitted Requests for Proposals for event-related purchases.
+* Planned, organised and executed events to raise awareness on disability and destigmatize disability
+* Monitored semesterly expenses per event via keeping receipts from vendors and submitted reimbursements to the Office of Student Affairs to ensure the stable functioning of the organization.
+* Collaborated and invited other organizations for on-campus events for community engagement
 
 **You can follow Enable on [Instagram](https://www.instagram.com/enable_at_columbia/)**
-
 
 ### **Professional Summary**
 
 You can learn more about my professional accomplishments [here](about-me.html)
 
-### **Data Science Projects** 
+### **Data Science and Machine Learning Projects** 
 
 * Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
 
-* Visit [Drug related Deaths in Connecticut](https://connzhang.github.io/finalproject.io/) to see my Data Science final Project. 
+

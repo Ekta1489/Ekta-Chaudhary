@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Resume"
       href: about.html
+    - text: "GIS Maps"
+      href: Untitled.html  
     - text: "Interactive graphics"
       href: plotly.html
     - text: "Dashboard"

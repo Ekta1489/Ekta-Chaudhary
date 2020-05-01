@@ -117,7 +117,7 @@ _Clinical Intern (November 2011 to November 2012)_
 
 # Skills and Certifications
 
-◆ **Programming:** SAS, STATA, SQL, R. 
+◆ **Programming:** SAS, STATA, SQL, R, QGIS
 
 ◆ **Database Management tools:** MS Access, MySQL
 
@@ -141,6 +141,10 @@ _Clinical Intern (November 2011 to November 2012)_
 
 ◆ Collaborated and invited other organizations for on-campus events for community engagement.
 
+**Columbia University Irving Medical Center**
 
+**Covid-19 Studnet Service Corps**
 
+◆ Working with the Patient Education Materials and Design team
 
+◆ Responsible for designing and organizing accessible information materials for COVID-19 patients. 
