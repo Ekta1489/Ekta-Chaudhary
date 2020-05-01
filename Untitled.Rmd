@@ -3,40 +3,33 @@ title: "Geographic Information System Analysis Maps"
 output: html_document
 ---
 
-**Select Demographis and Health Infrastructure Indicators Department Level, Peru**
+-------------------------------------------------------------------------------------------------------
 
 ![](map1.png)
 
+-------------------------------------------------------------------------------------------------------
 
-
-**Comparative analysis of Heroin, Cocaine, and Fentanyl related deaths in Connecticut**
 
 ![](map7.png)
 
+-------------------------------------------------------------------------------------------------------
 
-
-
-**Census level tract information on Poverty, Health Insurance and Unemployment Rate, New York City**
 
 ![](map2.png)
 
-
-
-**Spatially Varying GWR (Local) Regression Results**
+-------------------------------------------------------------------------------------------------------
 
 ![](map3.png)
 
+-------------------------------------------------------------------------------------------------------
 
-
-**Residual Comparison: OLS vs Spatial Lag results**
 
 ![](map4.png)
 
+-------------------------------------------------------------------------------------------------------
 
 
-
-**Significant Spatio-Temporal Clusters of Teen pregnancy rates, NYC Area**
 
 ![](map6.png)
 
-
+-------------------------------------------------------------------------------------------------------

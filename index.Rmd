@@ -41,16 +41,9 @@ As a Founder and President of Enable, my responsibilities included:
 
 You can learn more about my professional accomplishments [here](about-me.html)
 
-### **Data Science and Machine Learning Projects** 
+### **Github** 
 
 Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
 
-
-
------------------------------------------------------------------------------------------------------
-
-
-
------------------------------------------------------------------------------------------------------
 
 
