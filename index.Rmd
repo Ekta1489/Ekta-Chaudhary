@@ -45,16 +45,12 @@ You can learn more about my professional accomplishments [here](about-me.html)
 
 Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
 
-### **Hobbies**
 
-I am passionate about photography. Here are some of my favourite clicks!
-
-![](Nature.jpg)
 
 -----------------------------------------------------------------------------------------------------
 
-![](Picture.jpg)
+
 
 -----------------------------------------------------------------------------------------------------
 
-![](Image2.jpeg)
+
