@@ -8,7 +8,7 @@ output:
 ---
 **Welcome to my Website!!!**
 
-![](IMG_2820.JPG)
+![](EC.JPG)
 
 ### **About Me**
 
@@ -16,8 +16,6 @@ I'm an _Epidemiologist_ and a _chronic disease researcher._ I graduated from _Co
 Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to Doctor of Dental Surgery in the US. 
 As a Dental Surgeon, I started with my venture and managed it independently for 5 years. I appointed, managed and led a team of 5 Dental specialists, 4 Dental Auxiliary staff, 5+ Interns to ensure the effective running of the dental operatory. 
 I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases.
-I love photography,traveling and watching sunsets.
-
 
 ### **Enable**
 
@@ -45,6 +43,18 @@ You can learn more about my professional accomplishments [here](about-me.html)
 
 ### **Data Science and Machine Learning Projects** 
 
-* Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
+Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
 
+### **Hobbies**
 
+I am passionate about photography. Here are some of my favourite clicks!
+
+![](Nature.jpg)
+
+-----------------------------------------------------------------------------------------------------
+
+![](Picture.jpg)
+
+-----------------------------------------------------------------------------------------------------
+
+![](Image2.jpeg)
