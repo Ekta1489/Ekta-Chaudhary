@@ -90,7 +90,7 @@ Column {data-width=350}
 ```{r}
 weather_df %>%
    plot_ly(x = ~month, y = ~avg_prcp, color = ~month, type = "bar") %>%
-  layout(title = "Average precipitation in Central Park, NY in 2000"
+  layout(title = "Avg. precipitation in Central Park, NY in 2000"
          )
 ```
 
