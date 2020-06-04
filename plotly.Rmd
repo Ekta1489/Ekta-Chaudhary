@@ -5,6 +5,7 @@ output:
     message: false
     toc: true
     toc_float: true
+    theme: simplex
     
 ---
 I have added my files with _interaction graphics_ here !!

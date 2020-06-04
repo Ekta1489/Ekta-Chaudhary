@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    
+    theme: simplex
 ---
 **Welcome to my Website!!!**
 
@@ -12,16 +12,14 @@ output:
 
 ### **About Me**
 
-I'm an _Epidemiologist_ and a _chronic disease researcher._ I graduated from _Columbia University Mailman School of Public Health_ in May, 2020. 
-Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to Doctor of Dental Surgery in the US. 
-As a Dental Surgeon, I started with my venture and managed it independently for 5 years. I appointed, managed and led a team of 5 Dental specialists, 4 Dental Auxiliary staff, 5+ Interns to ensure the effective running of the dental operatory. 
-I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases.
+I'm an _Epidemiologist_ and a _Chronic Disease Researcher_ with 8+ years of diverse experience in the Healthcare Industry. I graduated from _Columbia University Mailman School of Public Health_ in May, 2020. Before Columbia, I earned a Bachelor of Dental Surgery from India which is equivalent to the Doctor of Dental Surgery in the US. 
+I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases. I love challenges and enjoy coming up with elegant and innovative solutions to challenging problems. 
 
 ### **Enable**
 
 ![](Enable.jpg)
 
-I am the Founder and President of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable).
+I am the President and Founder of [Enable](https://mailman-columbia.campuslabs.com/engage/organization/enable).
 Enable is a student organization at Columbia University Mailman School of Public Health.The mission of Enable is to destigmatize disability of all forms.The organization aims to accomplish this mission by: 
 
 * Providing a platform for discussion on disability
@@ -31,11 +29,13 @@ Enable is a student organization at Columbia University Mailman School of Public
 
 As a Founder and President of Enable, my responsibilities included:
 
-* Planned, organised and executed events to raise awareness on disability and destigmatize disability
-* Monitored semesterly expenses per event via keeping receipts from vendors and submitted reimbursements to the Office of Student Affairs to ensure the stable functioning of the organization.
-* Collaborated and invited other organizations for on-campus events for community engagement
+* Identifying the needs of students with disabilities through one-on-one and focus group interviews
+* Registering the organisation, and recruiting the first E-board of the organisation
+* Planning, organising and executing events to raise awareness on disability and destigmatize disability
+* Monitoring semesterly expenses per event via keeping receipts from vendors and submitted reimbursements to the Office of Student Affairs to ensure the stable functioning of the organization.
+* Collaborating with other organizations for on-campus events for community engagement
 
-**You can follow Enable on [Instagram](https://www.instagram.com/enable_at_columbia/)**
+**Please follow Enable on [Instagram](https://www.instagram.com/enable_at_columbia/)**
 
 ### **Professional Summary**
 
@@ -43,7 +43,7 @@ You can learn more about my professional accomplishments [here](about-me.html)
 
 ### **Github** 
 
-Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science and Machine Learning projects.
+Visit my [Github](http://github.com/Ekta1489/) to see my Repositories where I have added my Data Science, Machine Learning, and GIS projects.
 
 
 

@@ -1,44 +1,41 @@
 
-
 ---
 output: 
   html_document:
     toc: true
     toc_float: true
-    
+    theme: simplex
 ---
 
 
-![](epi.png)
 
 
-◆ Epidemiologist and Chronic Disease Researcher with expertise in principles and methods of Biostatistics; principles, theories, and procedures of Epidemiology, including study design, statistical analysis, and causal inference.
 
-◆ Skilled in Data Science, Machine learning techniques, Applying classification and regression techniques beyond linear methods, Conducting exploratory data analysis using methods in unsupervised learning, Implementing various statistical learning methods, Data preprocessing, Model training, Model interpretation.
+# Summary 
 
-◆ In-depth understanding and application of statistical approaches including multiple regression analysis, logistic regression, generalized regression models, proportional hazards models, use of Kaplan-Meier survival analysis, spatial analysis techniques.
+I am an Epidemiologist and a Chronic Disease Researcher focused on investigating patterns and causes of diseases in humans. I am experienced in coordinating research studies and conducting statistical data analysis with 8+ years of diverse experience in the Healthcare industry. 
 
-◆ Proficient in applying the statistical and epidemiological methodology in clinical research projects using SAS, R, SQL and interpreting the analytical results.
+------------------------------------------------------------------------------------------------------
 
 # Education
 
 **Columbia University Mailman School of Public Health, New York, NY**
 
-_Master of Public Health in Epidemiology | Certificate: Epidemiology of Chronic Diseases: Expected- May 2020_                                              
+**_Master of Public Health in Epidemiology | Certificate: Epidemiology of Chronic Diseases: May 2020_**                                              
+
 Relevant coursework:
   
 _Epidemiology_: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods using SAS, Chronic Disease Epidemiology, Cancer Epidemiology
 
-_Biostatistics_: Analysis of Categorical Data, Data Science I (R programming), Relational Databases And SQL Programming, Data Science II (Machine Learning), Applied Regression I, Applied Regression II.
+_Biostatistics_: Analysis of Categorical Data, Data Science I(R programming), Relational Databases And SQL Programming, Data Science II (Machine Learning), Applied Regression I, Applied Regression II.
 
-_Others_: Foundation of Public Health, Global and Developmental Perspectives, Public Health Interventions, Determinants of Health, Health Systems, Leadership Development, Integration of Science and Practice, Public Health GIS
+_Other relevant courses_: Foundation of Public Health, Global and Developmental Perspectives, Public Health Interventions, Determinants of Health, Health Systems, Leadership Development, Integration of Science and Practice, Public Health GIS
 
 **Kurukshetra University, Haryana, India**
 
-_Bachelor of Dental Surgery Equivalent to Doctor of Dental Surgery (DDS): Graduated- November 2012_ 
+**_Bachelor of Dental Surgery Equivalent to Doctor of Dental Surgery (DDS): Graduated- November 2012_** 
 
-Credits completed: 145.5
-Relevant coursework: 
+Coursework: 
 
 _Year 1_: General Human Anatomy including Embryology and Histology, General Human Physiology and Biochemistry, Nutrition and Dietetics, Dental Materials
 
@@ -48,72 +45,84 @@ _Year 3_: General Medicine, General Surgery, Oral Pathology and Oral Microbiolog
 
 _Year 4_: Oral Medicine and Radiology, Pediatric and Preventive Dentistry, Orthodontics and Dentofacial Orthopedics, Periodontology, Prosthodontics and Crown and Bridge, Conservative Dentistry and Endodontics, Oral and Maxillofacial Surgery
 
+------------------------------------------------------------------------------------------------------
+
 # Work Experience
 
 **New York Presbyterian Hospital, Department of Neurology** 
 
-_Research Assistant (May,2019 to Present)_  
+**_Research Assistant (May,2019 to May,2020)_**  
   
-◆ Gathered, reviewed and summarized literature from scientific journals, such as PubMed and JAMA that identified gaps in previous research.
+◆ Gathered, reviewed and summarized literature from scientific journals, such as PubMed and JAMA that identified gaps in previous research
 
-◆ Identified the association of Ischemic stroke and Subarachnoid hemorrhage with the potential risk factors i.e., Diabetes Mellitus, pre-existing hypertension, Congenital heart disease, Smoking, Migraine, Patent Foramen Ovale, Chronic Renal diseases by building Logistic Regression models using SAS. 
+◆ Created datasets for analysis by performing data cleaning, identified and generated 10 key features explaining the stroke risk factors from the raw data to perform statistical analysis
 
-◆ Analyzed the Stroke trend in young adults from 2004-2015 by performing exploratory data analysis on SPARCS dataset using SAS.
+◆ Performed statistical analyses to determine the prevalence of stroke from 2004-2015, identify the magnitude of association between stroke and risk factors i.e., Diabetes, Hypertension, Smoking and Chronic Kidney disease by building logistic regression models using SAS and R 
 
-◆ Created visualizations of the findings using R.
+◆ Created key metrics and visualizations to summarize the results of statistical analyses and presented the research findings to 50+ Researchers and 200+ graduate students at Mailman School of Public Health
 
-◆ Presented the Research findings to 50+ Researchers and 200+ graduate students at Mailman School of Public Health.
-
-◆ Manuscript in progress.
-  
 **Columbia University Mailman School of Public Health**
 
-_Graduate Teaching Assistant (August,2019 to Present)_ 
+**_Graduate Teaching Assistant (August,2019 to May,2020)_** 
   
 Graduate Teaching Assistant for 2 studios- _Global and Developmental Perspectives, Integration of Science and  Practice_.
   
-◆ Facilitate classroom discussions focused on academic and intellectual topics to further students' critical thinking skills as well as an understanding of the materials presented, providing academic support to 400+ students.
+◆ Facilitated classroom discussions focused on academic and intellectual topics to further students' critical thinking skills as well as an understanding of the materials presented, providing academic support to 400+ students
 
-◆ Track class and student metrics including attendance, projects, labs, and record grades.
+◆ Evaluated student assignments, projects, exams, and assisted students with course material during regular office hours
+
+◆ Assisted in adapting the course to be taught and administered entirely online due to the COVID-19 pandemic
 
 **Dr. Ekta’s Dental Solutions, Haryana, India** 
 
-_Founder/ President/ CEO/ (July 2013 to July 2018)_                                                                                                                   
-◆ Appointed, managed and led a team of 5 Dental specialists (Orthodontist, Periodontist, Oral Implantologist, Pedodontist, Oral Surgeon), 4 Dental Auxiliary staff (Dental assistant, Dental Hygienist, Dental Mechanic, Dental technologist), 5+ Interns to ensure the effective running of the dental operatory.
+**_President and Founder (July 2013 to July 2018)_**                                                                                                                   
+◆ Appointed, managed and led a team of 5 Dental specialists, 4 Dental Auxiliary staff, 5+ Interns that ensured the effective running of the dental operatory and improved the dental operation time 
 
-◆ Effectively conducted oral/maxillofacial and pre-prosthetic surgeries, implant surgeries, root canal treatment, scaling and root planning, smile designing, restorations on 5000+ patients.
+◆ Clearly defined the dental clinic's code of conduct and enforced specific guidelines in a constructive manner which led to improved staff relationship and enhanced the productivity by 20%
 
-◆ Diagnosed oral carcinomas and performed biopsies to detect cancer at an early stage thereby prolonging life.
+◆ Consulted with patients and analyzed patient data to determine patient needs and treatment goals
 
-◆ Performed preventive dental procedures like a topical fluoride application, pit and fissure sealant application.
+◆ Effectively conducted oral/maxillofacial and pre-prosthetic surgeries, implant surgeries, root canal treatment, scaling and root planning, smile designing, restorations on 5000+ patients
 
-◆ Used SAS to analyze patient data to study the prevalence of dental diseases from 2014-2018 according to age, gender, socio-economic status in Panchkula, Haryana.
+◆ Collected, measured, and analysed the patient data, to develop a much clearer picture of the practice's performance, and compared the practice's data to the national statistics to identify the areas of improvement
 
-◆ Maintained patient database using MS Access and used SQL queries to pull patient database for analysis.
+◆ Coordinated and led weekly meeting with the staff and discussed ways to improve the practice like social media marketing, having a dental assistant assigned per chair in the office enabling four-handed dentistry, organizing dental camps diagnosing more number of patients with dental diseases and motivating them for dental treatment, following-up with patients' appointments through emails, text messages, and phone calls, improving the revenue by 25%
 
-◆ Organized weekly free dental camps which improved the oral health of 100+ patients every week.
+◆ Conducted research on defects, diseases, and disorders affecting the oral and/or facial regions
 
 **Swami Devi Dayal Hospital and Dental College, Haryana, India**  
 
-_Research Assistant (November 2011 to November 2017)_
+**_Research Associate (November 2012 to October 2017)_**
 
-◆ Managed, cleaned, and optimized hospital databases using MS Access.
+◆ Managed, cleaned, and optimized hospital databases using MS Access
 
-◆ Collected relevant patient data, carefully analyzed the data using SAS to produce reports and graphs, communicated the results in a clear, concise and actionable manner.
+◆ Participated in recruitment from community health clinics, conducted participant interviews and assessments, and assisted with the randomized clinical trials
 
-◆ Screened potential subjects to determine suitability for studies.
+◆ Administered questionnaires and data collection (qualitative and quantitative)
 
-◆ Managed critical paperwork such as informed consent forms and personal waivers.
+◆ Collected relevant patient data, carefully analyzed the data using SAS to produce reports and graphs, communicated the results in a clear, concise and actionable manner
 
-_Clinical Intern (November 2011 to November 2012)_
+Projects:
 
-◆	Completed the compulsory rotational paid internship that provided clinic training in all the different specialities of dentistry.
+1) Evaluated the change in dental caries status using the DMFT indices over 2 years in 407 school children from Panchkula, Haryana, aged 7-9 years by conducting a paired t-test using SAS 
 
-◆	Scheduled appointments, maintained records and conducted dental treatment on over 1000 patients in one year.
+2) Assessed a random sample of 500 subjects to determine the level of edentulousness, cause of edentulousness in middle-aged and elderly population in the society and examined the association of edentulousness with habits (smoking, tobacco chewing), socioeconomic status, diet, and body mass index (BMI) using Chi-Squared tests using SAS and MS-Excel
 
-◆	Organized dental and medical health awareness campaigns at Indo-Tibetan Border Police, Haryana and provided required treatment to 500+ patients.
+3) Conducted a descriptive cross-sectional study on 160 subjects to determine the oral health status of Hemophilic Children in Chandigarh, India. Analysis was performed using SAS and the observations were statistically analyzed using the Chi-Squared test
 
-◆	Assisted with research conducted to study the Impact of mid-day meal program on educational and nutritional in rural Haryana, India.
+**_Clinical Intern (November 2011 to November 2012)_**
+
+◆ Scheduled appointments, maintained patient databases, and conducted dental treatment on over 1000 patients in one year
+
+◆ Independently planned, coordinated with the authorities, and organized an intensive 3 day long dental and medical health awareness campaign at Indo-Tibetan Border Police, Haryana and provided required treatment to 500+ patients
+
+◆ During the 2 month posting in the Department of Preventive and Community Dentistry, assisted with a research conducted to study the Impact of mid-day meal program on educational status in rural Haryana, India using SAS, and determined a reduction in absenteeism in schools by 60% after the implementation of midday meal programs
+
+◆ Developed and implemented individual dental care plans for 40+ patients each week
+
+◆ Monitored patient progress and maintained treatment records to help evaluate the prognosis
+
+------------------------------------------------------------------------------------------------------
 
 # Skills and Certifications
 
@@ -129,22 +138,31 @@ _Clinical Intern (November 2011 to November 2012)_
 
 ◆ **Languages:** English, Hindi, Punjabi.
 
+------------------------------------------------------------------------------------------------------
+
 # Volunteer Leadership 
 
 **Enable, Columbia University** 
 
 **Founder and President** 
 
-◆ Planned, organized and executed events to raise awareness on disability and destigmatize disability.
+Enable is a student organisation at Columbia University established with a mission to destigmatize disability of all forms.
 
-◆ Monitored semesterly expenses per event via keeping receipts from vendors and submitted reimbursements to the Office of Student Affairs to ensure the stable functioning of the organization.
+Role: 
+◆ Identified the needs of students with disabilities through one-on-one and focus group interviews 
 
-◆ Collaborated and invited other organizations for on-campus events for community engagement.
+◆ Registered the organisation, recruited the first E-board of the organisation
+
+◆ Planned, organised and executed events to raise awareness on disability and destigmatize disability
+
+◆ Monitored semesterly expenses per event via keeping receipts from vendors and submitted reimbursements to the Office of Student Affairs to ensure the stable functioning of the organization
+
+◆ Collaborated and invited other organizations for on-campus events for community engagement
 
 **Columbia University Irving Medical Center**
 
 **Covid-19 Studnet Service Corps**
 
-◆ Working with the Patient Education Materials and Design team
+◆ Responsible for designing and organising accessible information materials for COVID-19 patients and general public to better convey the important information to people with limited health literacy skills
 
-◆ Responsible for designing and organizing accessible information materials for COVID-19 patients. 
+◆ Reviewing and summarising literature from scientific journals and creating a database of the reviewed literature
