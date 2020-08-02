@@ -79,47 +79,30 @@ Graduate Teaching Assistant for 2 studios- _Global and Developmental Perspective
 
 **Swami Devi Dayal Hospital and Dental College, Haryana, India**  
 
-**_Research Associate (December 2015 to November 2017)_**
+**_Research Associate (December 2012 to November 2017)_**
 
-◆	Managed/cleaned/optimized hospital databases using MS Access; helped recruit from community health clinics
+◆ Managed/cleaned/optimized hospital databases using MS Access; helped recruit from community health clinics
+o Interviewed/assessed/assisted with randomized clinical trials; administered qualitative/quantitative data collection
+o Collected relevant patient data; analyzed using SAS to produce reports/graphs, communicated results clearly
 
-o	Interviewed/assessed/assisted with randomized clinical trials; administered qualitative/quantitative data collection
+◆ Evaluated dental caries change status over 2 years—school children; examined 407 children ages 7-9: DMFT status
+o Educated children: desired oral health behavior via hand-outs after examination; emphasized brushing techniques/diet
+o Referred those in need of treatment to the dental clinics; examined the same group after 2 years— determined DMFT status
+‣ Used Paired t-test to compare mean DMFT score at baseline—revealed 78% of the children had caries
+‣ Assessed significant increase in DMFT scores of children; necessitated rigorous preventive strategies
 
-o	Collected relevant patient data; analyzed using SAS to produce reports/graphs, communicated results clearly
+◆ Assessed a random sample of 500 subjects to determine the level/cause of edentulousness: middle-aged/elderly population
+o Used chi-squared tests to examine the association with smoking/tobacco chewing, socioeconomic status, diet, BMI
+‣ Determined higher level to be in subjects with low socioeconomic status—lack of dental awareness
+‣ Mixed diet; High BMI— strongly associated
+o Organized several dental education and motivation camps at the community level for elderly patients
+o Determined the main causes of edentulousness
+‣ Dental Caries—37.4%, Combination of Dental Caries/Periodontal Disease: 12.2%
 
-◆	Evaluated dental caries change status over 2 years—school children; examined 407 children ages 7-9: DMFT status
-
-o	Educated children: desired oral health behavior via hand-outs after examination; emphasized brushing techniques/diet 
-
-o	Referred those in need of treatment to the dental clinics; examined the same group after 2 years— determined DMFT status 
-
-	Used Paired t-test to compare mean DMFT score at baseline—revealed 78% of the children had caries
-
-	Assessed significant increase in DMFT scores of children; necessitated rigorous preventive strategies 
-
-**_Research Assistant (December 2012 to November 2015)_**
-
-◆	Assessed a random sample of 500 subjects to determine the level/cause of edentulousness: middle-aged/elderly population 
-
-o	Used chi-squared tests to examine the association with smoking/tobacco chewing, socioeconomic status, diet, BMI
-
-	Determined higher level to be in subjects with low socioeconomic status—lack of dental awareness
-
-	Mixed diet; High BMI— strongly associated 
-
-o	Organized several dental education and motivation camps at the community level for elderly patients
-
-o	Determined the main causes of edentulousness
-
-	Dental Caries—37.4%, Combination of Dental Caries/Periodontal Disease: 12.2% 
-
-◆	Conducted a descriptive cross-sectional study on 160 subjects to assess the oral health status of Hemophilic Children 
-
-o	Performed statistical analysis using SAS: observations were statistically analyzed using the Chi-square test
-
-	Concluded oral hygiene status of hemophilic children—poor; dental caries prevalence: 76.3%
-
-o	Developed effective oral health promotional/interventional strategies to combat the prevalence of dental diseases
+◆ Conducted a descriptive cross-sectional study on 160 subjects to assess the oral health status of Hemophilic Children
+o Performed statistical analysis using SAS: observations were statistically analyzed using the Chi-square test
+‣ Concluded oral hygiene status of hemophilic children—poor; dental caries prevalence: 76.3%
+‣ Developed effective oral health promotional/interventional strategies to combat the prevalence of dental diseases
 
 **_Clinical Intern (November 2011 to November 2012)_**
 
